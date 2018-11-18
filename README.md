@@ -14,3 +14,6 @@ npm run serve
 ```
 npm run build
 ```
+
+## link
+[took from](https://codeburst.io/vuex-and-typescript-3427ba78cfa8)
